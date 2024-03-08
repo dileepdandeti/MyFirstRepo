@@ -1,1 +1,2 @@
-Hello this is my first learning effort for GIT
+Hello THis is my first learning effort for GIT
+I am adding the second line
